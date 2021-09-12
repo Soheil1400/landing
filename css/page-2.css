@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+h1{
+    color: #706e6e;
+    font-size: 64px;
+}
+#container{
+
+}
+#container span{
+    border: solid 2px #c41313;
+    color:#c41313;
+    padding: 5px;
+    margin:5px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    margin:10px 10px;
+}
+.div-img{
+    margin:25px 0;
+}
+.bottom{
+    border: solid 2px #c41313;
+    color:#c41313;
+    padding: 5px;
+    margin:5px;
+}
+#container-2{
+    background-color: #d8dade;
+}
+#container-2 span{
+    font-size: 32px;
+    color: hotpink;
+    vertical-align: middle;
+}
+.avatar{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    border: solid 2px white;
+}
